@@ -9,7 +9,7 @@ sites:
   - name: huobi-c2c
     url: https://c2c.huobi.com
   - name: huobi-c2c-api
-    url: https://otc-api.huobi.com
+    url: https://otc-api.huobi.com/v1/data/config-list?type=time
   - name: okex
     url: https://www.okex.com
   - name: binance
