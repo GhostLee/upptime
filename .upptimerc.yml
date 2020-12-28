@@ -8,6 +8,8 @@ sites:
     url: https://www.huobi.com
   - name: huobi-c2c
     url: https://c2c.huobi.com
+  - name: huobi-c2c-api
+    url: https://otc-api.huobi.com
   - name: okex
     url: https://www.okex.com
   - name: binance
