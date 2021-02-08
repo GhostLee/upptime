@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/otc-api.huobi.com",
     "slug": "huobi-c2c-api",
     "status": "up",
-    "uptime": "99.35%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 439,
     "timeDay": 337,
     "timeWeek": 443,
@@ -78,17 +78,19 @@
     "url": "https://www.binance.com",
     "icon": "https://favicons.githubusercontent.com/www.binance.com",
     "slug": "binance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1101,
-    "timeDay": 2460,
-    "timeWeek": 940,
-    "timeMonth": 1040,
-    "timeYear": 1101,
-    "dailyMinutesDown": {}
+    "time": 1301,
+    "timeDay": 6380,
+    "timeWeek": 2110,
+    "timeMonth": 1329,
+    "timeYear": 1301,
+    "dailyMinutesDown": {
+      "2021-02-08": 0
+    }
   }
 ]
