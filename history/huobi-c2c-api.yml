@@ -1,7 +1,7 @@
 url: https://otc-api.huobi.com/v1/data/config-list?type=time
 status: up
 code: 200
-responseTime: 302
-lastUpdated: 2021-03-11T23:16:25.751Z
+responseTime: 352
+lastUpdated: 2021-03-12T23:16:30.076Z
 startTime: Mon Dec 28 2020 02:56:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
