@@ -5,17 +5,20 @@
     "icon": "https://favicons.githubusercontent.com/www.huobi.com",
     "slug": "huobi",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 350,
-    "timeDay": 240,
-    "timeWeek": 235,
-    "timeMonth": 345,
-    "timeYear": 350,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.69%",
+    "time": 353,
+    "timeDay": 600,
+    "timeWeek": 291,
+    "timeMonth": 354,
+    "timeYear": 353,
+    "dailyMinutesDown": {
+      "2021-02-08": 16,
+      "2020-12-28": 393
+    }
   },
   {
     "name": "huobi-c2c",
@@ -23,17 +26,20 @@
     "icon": "https://favicons.githubusercontent.com/c2c.huobi.com",
     "slug": "huobi-c2c",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 410,
-    "timeDay": 291,
-    "timeWeek": 293,
-    "timeMonth": 413,
-    "timeYear": 410,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.69%",
+    "time": 409,
+    "timeDay": 283,
+    "timeWeek": 298,
+    "timeMonth": 409,
+    "timeYear": 409,
+    "dailyMinutesDown": {
+      "2021-02-08": 16,
+      "2020-12-28": 393
+    }
   },
   {
     "name": "huobi-c2c-api",
@@ -46,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 419,
-    "timeDay": 322,
-    "timeWeek": 536,
-    "timeMonth": 476,
-    "timeYear": 419,
+    "time": 417,
+    "timeDay": 258,
+    "timeWeek": 465,
+    "timeMonth": 469,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2020-12-28": 393
     }
@@ -61,17 +67,20 @@
     "icon": "https://favicons.githubusercontent.com/www.okex.com",
     "slug": "okex",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 534,
-    "timeWeek": 334,
-    "timeMonth": 405,
-    "timeYear": 393,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.69%",
+    "time": 392,
+    "timeDay": 327,
+    "timeWeek": 342,
+    "timeMonth": 403,
+    "timeYear": 392,
+    "dailyMinutesDown": {
+      "2021-02-08": 16,
+      "2020-12-28": 393
+    }
   },
   {
     "name": "binance",
@@ -84,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 972,
-    "timeDay": 722,
-    "timeWeek": 419,
-    "timeMonth": 522,
-    "timeYear": 972,
+    "time": 967,
+    "timeDay": 468,
+    "timeWeek": 442,
+    "timeMonth": 520,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2021-02-08": 16
     }
