@@ -5,20 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.huobi.com",
     "slug": "huobi",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
-    "time": 353,
-    "timeDay": 600,
-    "timeWeek": 291,
-    "timeMonth": 354,
-    "timeYear": 353,
-    "dailyMinutesDown": {
-      "2021-02-08": 16,
-      "2020-12-28": 393
-    }
+    "uptimeYear": "100.00%",
+    "time": 356,
+    "timeDay": 665,
+    "timeWeek": 352,
+    "timeMonth": 364,
+    "timeYear": 356,
+    "dailyMinutesDown": {}
   },
   {
     "name": "huobi-c2c",
@@ -26,20 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/c2c.huobi.com",
     "slug": "huobi-c2c",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
-    "time": 409,
-    "timeDay": 283,
-    "timeWeek": 298,
-    "timeMonth": 409,
-    "timeYear": 409,
-    "dailyMinutesDown": {
-      "2021-02-08": 16,
-      "2020-12-28": 393
-    }
+    "uptimeYear": "100.00%",
+    "time": 408,
+    "timeDay": 326,
+    "timeWeek": 304,
+    "timeMonth": 406,
+    "timeYear": 408,
+    "dailyMinutesDown": {}
   },
   {
     "name": "huobi-c2c-api",
@@ -47,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/otc-api.huobi.com",
     "slug": "huobi-c2c-api",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.70%",
-    "time": 417,
-    "timeDay": 258,
-    "timeWeek": 465,
-    "timeMonth": 469,
-    "timeYear": 417,
+    "uptimeYear": "99.71%",
+    "time": 416,
+    "timeDay": 315,
+    "timeWeek": 366,
+    "timeMonth": 464,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2020-12-28": 393
     }
@@ -67,20 +61,17 @@
     "icon": "https://favicons.githubusercontent.com/www.okex.com",
     "slug": "okex",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.69%",
-    "time": 392,
-    "timeDay": 327,
-    "timeWeek": 342,
-    "timeMonth": 403,
-    "timeYear": 392,
-    "dailyMinutesDown": {
-      "2021-02-08": 16,
-      "2020-12-28": 393
-    }
+    "uptimeYear": "100.00%",
+    "time": 398,
+    "timeDay": 942,
+    "timeWeek": 432,
+    "timeMonth": 420,
+    "timeYear": 398,
+    "dailyMinutesDown": {}
   },
   {
     "name": "binance",
@@ -93,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 967,
-    "timeDay": 468,
-    "timeWeek": 442,
-    "timeMonth": 520,
-    "timeYear": 967,
+    "time": 961,
+    "timeDay": 441,
+    "timeWeek": 443,
+    "timeMonth": 518,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2021-02-08": 16
     }
